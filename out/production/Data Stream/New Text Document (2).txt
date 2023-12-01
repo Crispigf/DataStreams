@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Programming languages have various uses.
+Searching through multiple files.
+Java, Python, and JavaScript are popular languages.
+Test-driven development is an essential practice.

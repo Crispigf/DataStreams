@@ -1,0 +1,5 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Differentiating between Java versions.
+Version 8 introduced Stream API.
+Version 11 introduced var for type inference.

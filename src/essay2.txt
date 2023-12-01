@@ -1,0 +1,33 @@
+Recently hackers have focused on the exploits of third-party vendors in order to get into bigger companies' systems and escalate their breach to higher privilege in a system. This is because 
+most companies rely too heavily on third-party vendors and the companies end up giving the third-party vendor accounts too much access to their companies' systems. In an article titled “82% 
+of companies unknowingly give 3rd parties access to all their cloud data”, by Shir Tamir, they conducted research on permission provided to third party vendors and saw, “76% of companies 
+have 3rd party roles that allow for a full account takeover”(Tamir) and “Over 90% of cloud security teams were not aware they gave high permissions to 3rd party vendors”(Tamir). This quote 
+shows concrete evidence that companies are relying too heavily upon and trusting third-party vendors too much. With “82%” of companies giving full access to their cloud data to third-party 
+vendors, hackers will start exploiting these loose strings in order to get into your company's system. One company that has been exploited by third-party vendor vulnerabilities is Target.
+
+	In 2013 Target databases were attacked, and the attacker was able to retrieve 11 gigabytes of data before being caught. In the Article, “Anatomy of the Target Data Breach: Missed 
+Opportunities and Lessons Learned” by Michael Kassner, it stated that around 110 million customer credit/debit card information was stolen in the process. The result of this attack made 
+customers not trust shopping at Target and caused a downfall in the image of shopping at Target. Now what caused the attack? What allowed the attacker to obtain this information was a back 
+door access into the target infrastructure via a third-party vendor(Kassner). The third-party vendor that was exploited was called Fazio a refrigerator contractor. The attacker used social 
+engineering in order to get login credentials for the Fazio System. With login credentials, they were able to gain access to target vendors' infrastructure and continued to elevate 
+permission in the Target infrastructure from there until they found financial information. In this situation, one of the biggest problems in the Target vendor infrastructure that led to this 
+attack was the high privileged accounts Target gave to third-party vendors. Allowing vendors access to most of Target Infrastructure that was not needed for the vendor to for their job. This 
+was the main reason why it was so easy to go from logging into Target vendor infrastructure to Target financial infrastructure was because of the access.
+
+	Another attack that was caused by a third-party vendor exploit was the Home Depot data breach in 2014. In the article “Home Depot hackers used vendor Log-on to steal data, emails” By 
+Michael Winter it stated, “Hackers used stolen log-on credentials to penetrate Home Depot computer network”(Winter) and the hacker obtain these credentials through, “phishing emails to trick 
+an employee into giving out credentials”(Winter). From there they installed software that would allow back doors in the system so they were able to track all information on the Home Deport 
+infrastructure. The breach ended up costing Home Depot 62 million dollars and wasn’t detected or tracked down for serval months. This was another breach that was mainly caused by Home Depot 
+not creating access restrictions in their infrastructure.
+
+	Now you may be thinking, how do I prevent data breaches?  The best thing to do to prevent this is to give fewer privileges to your third-party vendors than you think. In both the 
+Home Depot and the Target breaches started from social engineering but once that was obtained by the attacker the attacker had access to all of the systems easily this goes back to the quote 
+that I stated before saying, “Over 90% of cloud security teams were not aware they gave high permissions to 3rd party vendors”(Tamir). Another way to prevent this that fits into both of the 
+breaches was logging there were very few to little security detection systems on both infrastructures an infrastructure that can log and inform your team is critical in making sure these 
+breaches don’t cause problems. One of the most important things you should do before connecting to third-party vendors is to understand the risk management you need to obtain in order for a 
+vendor breach to happen. In order to prevent breaches it is best to understand the system you are working with create access rules and event logs and you can help make your system harder to 
+breach.
+
+	Third-party vendors have caused huge data breaches to big companies through connections. But that doesn’t mean you should stop relying on them. Vendors help big companies and without 
+them, they won’t be able to function. To help stop data breaches companies need to be aware of the risk they take with connections and make a risk plan to help make their infrastructure more 
+secure. 
